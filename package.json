@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "This is a basic Node.js server that routes to three different pages and displays a 404 page for incorrect links.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EffDuBois/nodejs-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "server"
+  ],
+  "author": "EffDuBois <arnabkar2003@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EffDuBois/nodejs-server/issues"
+  },
+  "homepage": "https://github.com/EffDuBois/nodejs-server#readme"
+}
